@@ -26,5 +26,5 @@ I admit, this tool solves a few problems, not all.
 ```
 - Run the script
 ```
-py main.py
+>> py main.py
 ```
