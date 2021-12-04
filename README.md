@@ -36,4 +36,5 @@ I admit, this tool solves a few problems, not all.
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/26250290/144701922-6b331b10-e377-4777-a060-879bbbe773d2.png)
+![image](https://user-images.githubusercontent.com/26250290/144701942-4a17fac7-f067-47ff-8e0c-e4b1bbec1bd0.png)
+
