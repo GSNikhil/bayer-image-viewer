@@ -7,3 +7,17 @@ An inherent problem with header-less RAW images is the fact that there is no inf
 This tool was designed to overcome the above problem by asking the user the image dimensions before hand. 
 
 I admit, this tool solves a few problems, not all.
+
+## Setup
+
+- You should have any version of Python3 installed on your system.
+- Set up a virtual environment.
+'''
+python3 -m venv bayer-env
+'''
+- Install the required libraries
+'''
+pip install numpy=1.21.1
+pip install PyQt5
+'''
+- 
