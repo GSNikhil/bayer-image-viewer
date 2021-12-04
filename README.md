@@ -13,11 +13,18 @@ I admit, this tool solves a few problems, not all.
 - You should have any version of Python3 installed on your system.
 - Set up a virtual environment.
 ```
-python3 -m venv bayer-env
+>> python3 -m venv bayer-env
 ```
-- Install the required libraries
+- Activate the virtual environment.
 ```
-pip install numpy=1.21.1
-pip install PyQt5
+>> venv\Scripts\activate
 ```
-- 
+- Install the required libraries.
+```
+>> pip install numpy=1.21.1
+>> pip install PyQt5
+```
+- Run the script
+```
+py main.py
+```
