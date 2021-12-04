@@ -28,3 +28,12 @@ I admit, this tool solves a few problems, not all.
 ```
 >> py main.py
 ```
+
+## Features
+
+- Digital Gain (x1 to x16)
+- Zoom/Resize (0.2x to 20x)
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/26250290/144701922-6b331b10-e377-4777-a060-879bbbe773d2.png)
