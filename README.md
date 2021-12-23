@@ -17,7 +17,7 @@ I admit, this tool solves a few problems, not all.
 ```
 - Activate the virtual environment.
 ```
->> venv\Scripts\activate
+>> bayer-env\Scripts\activate
 ```
 - Install the required libraries.
 ```
